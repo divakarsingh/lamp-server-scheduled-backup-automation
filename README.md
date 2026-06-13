@@ -101,10 +101,8 @@ rclone lsd pcloud:
   20260613_055251/
     homes/
       user1.tar.gz
-      user2.tar.gz
     mysql/
       wpdb.sql.gz
-      erpdb.sql.gz
   logs/
     webdav-backup.log
     webdav-backup.log.20260613_055251
@@ -119,8 +117,9 @@ rclone lsd pcloud:
       user1.tar.gz
     mysql/
       wpdb.sql.gz
-  20260610_020000/
-    ...
+  logs/
+    webdav-backup.log
+    webdav-backup.log.20260613_055251
 ```
 
 ---
